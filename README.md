@@ -35,3 +35,6 @@ For my games, I place a strong focus on:
 - 🔘<strong>Self Difficulty Choice</strong> - Decide if you want to play easy, medium or hard mode! 
 
 As a gamer myself I know the frustration towards RNG (especially in gacha games) or Levelling up for the next boss. I don’t find this part necessarily negative, but I always loved when a game would at the very least appreciated my strategic thinking instead of only caring about ‘What level are you/your characters?’ or ‘Do you have specific X element for completing this challenge?‘. Obviously those mechanics will always have an impact on your playthrough, but I would honestly appreciate making games that take under consideration your personal thinking. 
+
+## ♠️What am I currently doing
+
