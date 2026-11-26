@@ -38,3 +38,5 @@ As a gamer myself I know the frustration towards RNG (especially in gacha games)
 
 ## ♠️What am I currently doing
 
+- 📕 <strong>Learning</strong> - School and personal growth through new ideas and projects
+- 💻 <strong>Developing</strong> - Planning and writing code and refining my skills 
