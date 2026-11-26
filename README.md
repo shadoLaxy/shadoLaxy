@@ -45,4 +45,4 @@ As a gamer myself I know the frustration towards RNG (especially in gacha games)
 ## 🃏My Future and actual Projects
 
 - ⚫️ <strong>ProjectEnd</strong> - A Story-driven Turn-Based RPG with a focus on strategy through elements and kits
-- 🪐 <strong>AppSolar</strong> - An app that helps with making the randomness easier for the card game I play with special people 
+- 🎲 <strong>AppRandom</strong> - An app that lets the user make a max of 10 lists, which will be used for randomizing. 
