@@ -1,8 +1,13 @@
 ## ♦️Hiiii
 
 <div align=center>
-<strong> Godot Game developer</strong> | <strong>Italian Developer</strong> | <strong>Inde Developer</strong>
+<strong> Godot Game developer</strong> | <strong>Italian Developer</strong> | <strong>indie Developer</strong>
 </div>
+
+<div align=center>
+  <img src=https://img.shields.io/badge/Based%20in-Italy-009246?> <img src=https://img.shields.io/badge/Developer%20of-Games-blue?>
+</div>
+
 
 ## ♣️About Me
 
