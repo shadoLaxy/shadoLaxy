@@ -1,7 +1,7 @@
 ## Hiiii ♦️
 
-<div align=center, strong>
-Game developer** | **Italian Developer** | **Inde Developer**
+<div align=center>
+<strong>Game developer</strong> | <strong>Italian Developer</strong> | <strong>Inde Developer</strong>
 </div>
 
 **shadoLaxy/shadoLaxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
